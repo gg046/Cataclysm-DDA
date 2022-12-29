@@ -386,5 +386,24 @@
     "max_level": 6,
     "intelligence": 9,
     "time": "30 m"
+  },
+   {
+    "id": "hologram_sci",
+    "type": "BOOK",
+    "category": "manuals",
+    "name": { "str": "hologram sci", "str_pl": "blinks of hologram sci" },
+    "description": "learn sci fast useing a hologram pad.",
+    "weight": "100 g",
+    "volume": "100 ml",
+    "price": 4000,
+    "price_postapoc": 3500,
+    "material": [ "paper", "leather" ],
+    "symbol": "!",
+    "color": "blue",
+    "skill": "chemistry",
+    "required_level": 0,
+    "max_level": 8,
+    "intelligence": 2,
+    "time": "1 m"
   }
 ]
