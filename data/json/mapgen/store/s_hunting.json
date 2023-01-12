@@ -3,7 +3,7 @@
     "type": "mapgen",
     "method": "json",
     "om_terrain": [ "s_hunting" ],
-    "weight": 50000000000000,
+    "weight": 1,
     "object": {
       "fill_ter": "t_floor",
       "rows": [
