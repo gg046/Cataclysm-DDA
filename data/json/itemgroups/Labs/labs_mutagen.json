@@ -73,10 +73,10 @@
     "//": "common mutation recipe books.",
     "subtype": "distribution",
     "entries": [
-      { "item": "recipe_maiar", "prob": 50 },
-      { "item": "recipe_creepy", "prob": 30 },
+      { "item": "recipe_maiar", "prob": 200 },
+      { "item": "recipe_creepy", "prob": 200 },
       { "item": "recipe_animal", "prob": 200 },
-      { "item": "recipe_labchem", "prob": 100 }
+      { "item": "recipe_labchem", "prob": 200 }
     ]
   },
   {
@@ -85,10 +85,10 @@
     "//": "rare mutation recipe books.",
     "subtype": "distribution",
     "entries": [
-      { "item": "recipe_labchem", "prob": 100 },
-      { "item": "recipe_medicalmut", "prob": 50 },
-      { "item": "recipe_alpha", "prob": 50 },
-      { "item": "recipe_elfa", "prob": 25 },
+      { "item": "recipe_labchem", "prob": 200 },
+      { "item": "recipe_medicalmut", "prob": 200 },
+      { "item": "recipe_alpha", "prob": 200 },
+      { "item": "recipe_elfa", "prob": 200 },
       { "item": "recipe_chimera", "prob": 200 },
       { "item": "recipe_raptor", "prob": 200 }
     ]
@@ -100,11 +100,11 @@
     "subtype": "distribution",
     "entries": [
       { "item": "hotplate", "prob": 200 },
-      { "item": "esbit_stove", "prob": 50 },
+      { "item": "esbit_stove", "prob": 20 },
       { "item": "chemistry_set", "prob": 300 },
-      { "item": "still_lab", "prob": 100 },
-      { "item": "microcentrifuge", "prob": 100 },
-      { "item": "rotovap", "prob": 100 },
+      { "item": "still_lab", "prob": 200 },
+      { "item": "microcentrifuge", "prob": 200 },
+      { "item": "rotovap", "prob": 200 },
       { "item": "funnel_separation", "prob": 200 },
       { "item": "analytical_set_basic", "prob": 200 }
     ]
