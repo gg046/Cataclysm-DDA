@@ -508,7 +508,7 @@
         "|||||,|||||``||,$,êA,N||",
         "|@@∞|,|∞@@|``||,$,NNYN||",
         "|r,,+,+,,r|``|||||||$|||",
-        "|rh,|,|,hr|``|||||,,,V||",
+        "|rh,|,|,hr|``|||||v,,V||",
         "|||||ê|||||``|`<||||||||",
         "|@@∞|,|∞@@|``|##||||||||",
         "|r,,+,+,,r|`````#```````",
@@ -529,6 +529,7 @@
         "Q": { "item": "SUS_rivtech_loot", "chance": 80 },
         "V": { "item": "UPS_power", "chance": 100, "repeat": [ 1, 2 ] },
         "r": { "item": "tools_gunsmith", "chance": 10 },
+        "v": { "item": "power_armor_sets", "chance": 100 },
         "N": [ { "item": "tools_gunsmith", "chance": 100 }, { "item": "mechanics", "chance": 50 } ],
         "≠": [
           { "item": "ammo_milspec", "chance": 70, "repeat": [ 1, 2 ] },
