@@ -1883,7 +1883,7 @@
       "str_max": 150,
       "sound": "crunch!",
       "sound_fail": "whump!",
-      "ter_set": "t_null"",
+      "ter_set": "t_null",
       "items": [
         { "item": "2x4", "count": [ 0, 1 ] },
         { "item": "wood_panel", "count": [ 0, 1 ] },
