@@ -1868,6 +1868,32 @@
   },
   {
     "type": "terrain",
+    "id": "t_rustwall",
+    "name": "rustwall",
+    "looks_like": "t_wall",
+    "description": "a steel wall rusted by time or by you.",
+    "symbol": "LINE_OXOX",
+    "color": "red",
+    "move_cost": 0,
+    "coverage": 100,
+    "roof": "t_wood_roof",
+    "flags": [ "NOITEM", "WALL", "NO_SCENT", "AUTO_WALL_SYMBOL", "BLOCK_WIND" ],
+    "bash": {
+      "str_min": 4,
+      "str_max": 150,
+      "sound": "crunch!",
+      "sound_fail": "whump!",
+      "ter_set": "t_null"",
+      "items": [
+        { "item": "2x4", "count": [ 0, 0 ] },
+        { "item": "wood_panel", "count": [ 0, 0 ] },
+        { "item": "nail", "charges": [ 1, 30 ] },
+        { "item": "splinter", "count": [ 0, 0 ] }
+      ]
+    }
+  },
+  {
+    "type": "terrain",
     "id": "t_reinforced_glass",
     "alias": [ "t_reinforced_glass_h", "t_reinforced_glass_v" ],
     "name": "reinforced glass",
@@ -2404,5 +2430,6 @@
       "ter_set": "t_reb_cage",
       "items": [ { "item": "rock", "count": [ 10, 22 ] } ]
     }
+    
   }
 ]
