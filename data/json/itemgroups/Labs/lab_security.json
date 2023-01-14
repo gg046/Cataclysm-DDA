@@ -14,7 +14,7 @@
               { "item": "power_armor_basic" },
               { "item": "power_armor_helmet_basic" }
             ],
-            "prob": 300
+            "prob": 100
           },
           {
             "collection": [
@@ -32,14 +32,14 @@
               { "item": "power_armor_helmet_light" },
               { "item": "power_armor_light" }
             ],
-            "prob": 550
+            "prob": 100
           },
           {
             "collection": [ { "item": "rm13_armor" }, { "item": "heavy_atomic_battery_cell", "charges": 10000 } ],
             "prob": 50
           }
         ],
-        "prob": 1000
+        "prob": 100
       }
     ]
   },
@@ -53,6 +53,7 @@
       { "item": "heavy_battery_cell", "prob": 70 },
       { "item": "heavy_plus_battery_cell", "prob": 40 },
       { "item": "adv_UPS_off", "prob": 40 }
+      { "item": "power_armor_sets", "prob": 100 }
     ]
   },
   {
