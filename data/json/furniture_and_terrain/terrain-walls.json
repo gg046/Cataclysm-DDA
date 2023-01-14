@@ -1885,10 +1885,10 @@
       "sound_fail": "whump!",
       "ter_set": "t_null"",
       "items": [
-        { "item": "2x4", "count": [ 0, 0 ] },
-        { "item": "wood_panel", "count": [ 0, 0 ] },
+        { "item": "2x4", "count": [ 0, 1 ] },
+        { "item": "wood_panel", "count": [ 0, 1 ] },
         { "item": "nail", "charges": [ 1, 30 ] },
-        { "item": "splinter", "count": [ 0, 0 ] }
+        { "item": "splinter", "count": [ 0, 1 ] }
       ]
     }
   },
