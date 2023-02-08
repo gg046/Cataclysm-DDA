@@ -55,7 +55,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the mutagenic catalyst.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen", 750, 850 ] ]
+      "vitamins": [ [ "mutagen", 1100, 1200 ] ]
     },
     "extend": { "flags": [ "MUTAGEN_CATALYST" ] },
     "delete": { "flags": [ "MUTAGEN_PRIMER" ] }
@@ -119,7 +119,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the cattle mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_cattle", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_cattle", 1100, 1200 ] ]
     }
   },
   {
@@ -134,7 +134,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the cephalopod mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_cephalopod", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_cephalopod", 1100, 1200 ] ]
     }
   },
   {
@@ -199,7 +199,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the fish mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_fish", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_fish", 1100, 1200 ] ]
     }
   },
   {
@@ -229,7 +229,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the lizard mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_lizard", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_lizard", 1100, 1200 ] ]
     }
   },
   {
@@ -292,7 +292,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the raptor mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_raptor", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_raptor", 1100, 1200 ] ]
     }
   },
   {
@@ -307,7 +307,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the rat mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_rat", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_rat", 1100, 1200 ] ]
     }
   },
   {
@@ -322,7 +322,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the slime mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_slime", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_slime", 1100, 1200 ] ]
     }
   },
   {
@@ -352,7 +352,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the snail mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_gastropod", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_gastropod", 1100, 1200 ] ]
     }
   },
   {
@@ -367,7 +367,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the batrachian mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_batrachian", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_batrachian", 1100, 1200 ] ]
     }
   },
   {
@@ -382,7 +382,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the troglobite mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_troglobite", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_troglobite", 1100, 1200 ] ]
     }
   },
   {
@@ -397,7 +397,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the ursine mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_ursine", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_ursine", 1100, 1200 ] ]
     }
   },
   {
@@ -412,7 +412,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the mouse mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_mouse", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_mouse", 1100, 1200 ] ]
     }
   },
   {
@@ -426,7 +426,7 @@
       "type": "consume_drug",
       "activation_message": "You inject the rabbit mutagenic primer.",
       "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_rabbit", 450, 550 ] ]
+      "vitamins": [ [ "mutagen_rabbit", 1100, 1200 ] ]
     }
   },
   {
