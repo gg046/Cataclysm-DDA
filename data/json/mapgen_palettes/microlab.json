@@ -57,15 +57,18 @@
       "B": [ { "item": "textbooks", "chance": 100 }, { "item": "manuals", "chance": 100 } ],
       "F": [
         { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 2, 5 ] },
+        { "item": "mutagens", "chance": 10, "repeat": [ 1, 2 ] },
         { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] }
       ],
       "U": [
         { "item": "tools_science", "chance": 50, "repeat": [ 1, 5 ] },
+        { "item": "mutagens", "chance": 10, "repeat": [ 1, 2 ] },
         { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 1, 5 ] },
         { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] }
       ],
       "c": [
         { "item": "tools_science", "chance": 60, "repeat": [ 1, 5 ] },
+        { "item": "mutagens", "chance": 10, "repeat": [ 1, 2 ] },
         { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 1, 5 ] },
         { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] },
         { "item": "lab_files_generic", "chance": 5 }
