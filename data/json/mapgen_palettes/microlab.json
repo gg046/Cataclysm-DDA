@@ -53,29 +53,29 @@
     },
     "toilets": { ";": {  } },
     "items": {
-      "d": { "item": "office", "chance": 70, "repeat": [ 1, 3 ] },
-      "B": [ { "item": "textbooks", "chance": 50 }, { "item": "manuals", "chance": 50 } ],
+      "d": { "item": "office", "chance": 40, "repeat": [ 1, 3 ] },
+      "B": [ { "item": "textbooks", "chance": 100 }, { "item": "manuals", "chance": 100 } ],
       "F": [
-        { "item": "supplies_reagents_lab", "chance": 70, "repeat": [ 2, 5 ] },
-        { "item": "supplies_samples_lab", "chance": 40, "repeat": [ 1, 3 ] }
+        { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 2, 5 ] },
+        { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] }
       ],
       "U": [
-        { "item": "tools_science", "chance": 30, "repeat": [ 1, 3 ] },
-        { "item": "supplies_reagents_lab", "chance": 70, "repeat": [ 1, 3 ] },
-        { "item": "supplies_samples_lab", "chance": 10, "repeat": [ 1, 2 ] }
+        { "item": "tools_science", "chance": 50, "repeat": [ 1, 5 ] },
+        { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 1, 5 ] },
+        { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] }
       ],
       "c": [
-        { "item": "tools_science", "chance": 30, "repeat": [ 1, 3 ] },
-        { "item": "supplies_reagents_lab", "chance": 70, "repeat": [ 1, 3 ] },
-        { "item": "supplies_samples_lab", "chance": 10, "repeat": [ 1, 2 ] },
+        { "item": "tools_science", "chance": 60, "repeat": [ 1, 5 ] },
+        { "item": "supplies_reagents_lab", "chance": 140, "repeat": [ 1, 5 ] },
+        { "item": "supplies_samples_lab", "chance": 140, "repeat": [ 1, 5 ] },
         { "item": "lab_files_generic", "chance": 5 }
       ],
       "R": [
-        { "item": "tools_robotics", "chance": 20, "repeat": [ 1, 3 ] },
-        { "item": "robots", "chance": 40, "repeat": [ 1, 3 ] },
+        { "item": "tools_robotics", "chance": 40, "repeat": [ 1, 3 ] },
+        { "item": "robots", "chance": 20, "repeat": [ 1, 3 ] },
         { "item": "supplies_electronics", "chance": 40, "repeat": [ 1, 3 ] }
       ],
-      "O": [ { "item": "tools_robotics", "chance": 40, "repeat": [ 1, 3 ] }, { "item": "schematics", "chance": 2 } ],
+      "O": [ { "item": "tools_robotics", "chance": 40, "repeat": [ 1, 3 ] }, { "item": "schematics", "chance": 20 } ],
       "i": { "item": "cleaning", "chance": 20 },
       "N": { "item": "fireman_cabinet", "chance": 100 }
     },
