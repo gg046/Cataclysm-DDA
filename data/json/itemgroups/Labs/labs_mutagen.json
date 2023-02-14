@@ -76,7 +76,7 @@
       { "item": "recipe_maiar", "prob": 200 },
       { "item": "recipe_creepy", "prob": 200 },
       { "item": "recipe_animal", "prob": 200 },
-      { "item": "rare_mutation_books", "prob": 200 },
+      { "item": "recipe_raptor", "prob": 200 },
       { "item": "recipe_labchem", "prob": 200 }
     ]
   },
