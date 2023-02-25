@@ -79,6 +79,15 @@
       { "item": "recipe_raptor", "prob": 200 },
       { "item": "recipe_labchem", "prob": 200 }
     ]
+   },
+   {
+    "id": "hologram_books",
+    "type": "item_group",
+    "//": "holograms pads that teach people who are dumb.",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "hologram_sci", "prob": 200 }
+    ]
   },
   {
     "id": "rare_mutation_books",
