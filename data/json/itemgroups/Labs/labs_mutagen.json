@@ -87,6 +87,7 @@
     "subtype": "distribution",
     "entries": [
       { "item": "hologram_sci", "prob": 200 }
+      { "item": "hologram_fab", "prob": 200 }
     ]
   },
   {
