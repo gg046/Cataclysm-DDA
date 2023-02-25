@@ -182,5 +182,24 @@
     "intelligence": 11,
     "time": "45 m",
     "fun": -2
+  },
+  {
+    "id": "hologram_aid",
+    "type": "BOOK",
+    "category": "manuals",
+    "name": { "str": "hologram aid", "str_pl": "blinks of hologram aid" },
+    "description": "learn firstaid fast using a hologram pad.",
+    "weight": "100 g",
+    "volume": "100 ml",
+    "price": 4000,
+    "price_postapoc": 3500,
+    "material": [ "paper", "leather" ],
+    "symbol": "!",
+    "color": "red",
+    "skill": "firstaid",
+    "required_level": 0,
+    "max_level": 8,
+    "intelligence": 2,
+    "time": "40 s"
   }
 ]
