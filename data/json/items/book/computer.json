@@ -166,5 +166,24 @@
     "intelligence": 8,
     "time": "30 m",
     "fun": -2
+  },
+  {
+    "id": "hologram_com",
+    "type": "BOOK",
+    "category": "manuals",
+    "name": { "str": "hologram com", "str_pl": "blinks of hologram com" },
+    "description": "learn computer fast using a hologram pad.",
+    "weight": "100 g",
+    "volume": "100 ml",
+    "price": 4000,
+    "price_postapoc": 3500,
+    "material": [ "paper", "leather" ],
+    "symbol": "!",
+    "color": "black",
+    "skill": "computer",
+    "required_level": 0,
+    "max_level": 8,
+    "intelligence": 2,
+    "time": "40 s"
   }
 ]
