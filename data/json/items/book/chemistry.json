@@ -404,6 +404,6 @@
     "required_level": 0,
     "max_level": 8,
     "intelligence": 2,
-    "time": "1 m"
+    "time": "30 s"
   }
 ]
