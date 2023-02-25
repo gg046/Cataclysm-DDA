@@ -88,7 +88,8 @@
     "entries": [
       { "item": "hologram_sci", "prob": 200 },
       { "item": "hologram_fab", "prob": 200 },
-      { "item": "hologram_aid", "prob": 200 }
+      { "item": "hologram_aid", "prob": 200 },
+      { "item": "hologram_com", "prob": 200 }
     ]
   },
   {
